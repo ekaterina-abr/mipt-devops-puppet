@@ -1,1 +1,1 @@
-# mipt-devops-puppet
+# Puppet. Простой пример использования
